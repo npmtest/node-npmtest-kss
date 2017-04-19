@@ -1,4 +1,7 @@
-# test coverage for  [kss (v2.4.0)](http://kss-node.github.io/kss-node)  [![npm package](https://img.shields.io/npm/v/npmtest-kss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-kss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-kss.svg)](https://travis-ci.org/npmtest/node-npmtest-kss)
+# npmtest-kss
+
+#### test coverage for  [kss (v2.4.0)](http://kss-node.github.io/kss-node)  [![npm package](https://img.shields.io/npm/v/npmtest-kss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-kss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-kss.svg)](https://travis-ci.org/npmtest/node-npmtest-kss)
+
 #### The Node.js port of KSS: A methodology for documenting CSS and generating style guides
 
 [![NPM](https://nodei.co/npm/kss.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/kss)

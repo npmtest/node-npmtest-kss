@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [kss (v2.4.0)](http://kss-node.github.io/kss-node)  [![npm package](https://img.shields.io/npm/v/npmtest-kss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-kss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-kss.svg)](https://travis-ci.org/npmtest/node-npmtest-kss)",
+    "description": "#### basic test coverage for  [kss (v2.4.0)](http://kss-node.github.io/kss-node)  [![npm package](https://img.shields.io/npm/v/npmtest-kss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-kss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-kss.svg)](https://travis-ci.org/npmtest/node-npmtest-kss)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "kss": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.2"
+    "version": "2017.4.26"
 }
